@@ -1,0 +1,2 @@
+Download the AIS data here:
+https://docs.mobilitydb.com/pub/aisdk-2024-03-01.zip
